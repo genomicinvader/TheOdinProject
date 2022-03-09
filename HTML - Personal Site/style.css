@@ -23,6 +23,14 @@ a {
     text-decoration: none;
 }
 
+li.Footer {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    display: inline;
+    float: center;
+}
+
 
 
 /* Webkit Designs */
