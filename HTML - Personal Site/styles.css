@@ -49,3 +49,13 @@ li.Footer {
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+input#textarea {
+    width: auto;
+    height: 169px;
+    margin-left: 14px;
+}
+
+form {
+    float: center;
+}
